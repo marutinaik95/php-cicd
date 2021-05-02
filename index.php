@@ -1,3 +1,3 @@
 <?php
-echo "First build";
+echo "First build to server";
 ?>
