@@ -1,3 +1,3 @@
 <?php
-echo "Successfully deployed to all the servers";
+echo "Successfully deployed to all the servers and working";
 ?>
